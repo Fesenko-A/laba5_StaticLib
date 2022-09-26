@@ -1,0 +1,3 @@
+﻿  Moneylib.cpp
+F:\Programming\C++\laba5_StaticLib\Moneylib.cpp(41): warning C4715: Moneylib::Money::Read: значение возвращается не при всех путях выполнения
+  laba5_StaticLib.vcxproj -> F:\Programming\C++\laba5_StaticLib\Debug\laba5_StaticLib.lib

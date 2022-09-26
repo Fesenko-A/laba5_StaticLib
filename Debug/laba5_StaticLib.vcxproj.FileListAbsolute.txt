@@ -1,0 +1,1 @@
+F:\Programming\C++\laba5_StaticLib\Debug\laba5_StaticLib.lib
